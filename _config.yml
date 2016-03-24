@@ -1,7 +1,7 @@
 name: PTY Realtors
 favicon: null
 layout_spectrum: 0.1326280531939119
-typography_spectrum: 0.10575368069112301
+typography_spectrum: 0.24917
 title: PTY Realtors
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#ffffff'
+    - '#9e2929'
+    - '#f4ec5c'
+    - '#e8a94b'
+    - '#e3673f'
   brandStrength: 0.5901443844195455
   lightness: 0.13910777098499238
   saturation: 0.11951226857490838
